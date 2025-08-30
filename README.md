@@ -404,3 +404,19 @@ class UnifiedInterface:
 ---
 
 > *A self-sustaining cognitive ecosystem that reasons with NARS rigor, learns with LLM flexibility, perceives across multiple modalities, and evolves safely through resource-aware self-reflection, all governed by a core constitution.*
+
+----
+
+# GUI
+- Enable anyone to use the system through a TODO-list paradigm.  In other words, knowing how to write and update a TODO list is essentially the only prerequisite to take advantage of the entire system - all functionality can be grounded in, and revised by, a line or section of an easily editable TODO list.  Following progressive disclosure principles, the grounding can contextualize UI construction
+- UI Demo viewer: runs demos, in an isolated context and display, allowing all the steps to be inspected.
+- Ontologies
+   - SUMO - easily loadable and usable for common-sense reasoning
+   - Personal / health / maintenance - immediately usable for PIM
+- Export/import system state, with conf/pri filter
+- Generate LM training data, to (re-)train LM models / LoRA adapters
+
+# Testing
+- Demos, from a variety of real-world application domains.  Function as unit tests and as demonstrable models, useful for education and development/testing purposes.
+- NARS Demos: illustrate classic NARS reasoning, its compatibility and synergy with LM text.  Use a versatile set of interesting domains, showing the diverse applicability and necessity of the system.
+- UI: generate a 'report' of rendering UI widgets (with dummy data), as one complete image that can be visually inspected
