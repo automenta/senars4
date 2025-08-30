@@ -1,7 +1,3 @@
-Of course. This final version is a complete, self-contained specification that integrates all previous refinements into a terse yet comprehensive blueprint. It is organized for clarity, focusing on the core architecture and its advanced operational dynamics.
-
-***
-
 # **SeNARS Cognitive System Specification v4.0**
 ## *A Unified Architecture for Grounded, Autonomous Cognition*
 
